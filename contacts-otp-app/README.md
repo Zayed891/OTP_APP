@@ -43,3 +43,5 @@ Make sure you have Node.js and npm installed.
 
 6. Run the Project
    npm run dev
+
+   https://otpapp45.netlify.app/
