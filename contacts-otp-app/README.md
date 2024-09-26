@@ -25,7 +25,7 @@ Make sure you have Node.js and npm installed.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Zayed891/contacts-otp-app.git
+   https://github.com/Zayed891/OTP_APP.git
    ```
 
 2. Navigate to the project directory:
